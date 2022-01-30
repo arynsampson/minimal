@@ -738,3 +738,7 @@ textarea {
   max-width: 100%;
   margin-bottom: 15px;
 }
+
+h1 > a {
+  color: #000;
+}
